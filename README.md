@@ -1,8 +1,5 @@
 # Practice-Open-Source
 
-# Open-source-Practice
-GSSoC is a 3-month long #OpenSource program by GirlScript Foundation, India.
-
 ## open-source-practice Pull Requests
 
 Repository for you to raise a Pull Request to **practice** open-source! 🎉
@@ -27,7 +24,7 @@ flowchart LR
 
 - On your new repository's page, click the gray main button in the upper left to reveal a dropdown menu.
 - Enter the name of your new branch in the text box. (Branch names usually refer to what is being changed. Example: nameAdd).
-  -Click on Create branch <new branch name>, which will automatically take you to your new branch. You can make edits on the main branch, but this may cause issues down the line. The best practice is to create a new branch for each separate issue you work on. That way your main branch remains in sync with Gssoc's main branch.
+  -Click on Create branch <new branch name>, which will automatically take you to your new branch. You can make edits on the main branch, but this may cause issues down the line. The best practice is to create a new branch for each separate issue you work on. That way your main branch remains in sync with main branch.
 
 **3. Edit:**
 
@@ -37,7 +34,7 @@ flowchart LR
 **4. Raise a Pull Request:**
 
 - Click `Pull Requests` option in your forked repository (which is the third option at the top of this page after the options `Code` and `Issues`).
-- Click the green New Pull Request button. This will prep the new pull request for you by auto-filling the base repository: base with 'GssocCommunity: main' AND auto-filling your head repository: compare with your repository: main
+- Click the green New Pull Request button. This will prep the new pull request for you by auto-filling the base repository.
 - Click on your head repository's `compare` dropdown, and switch branches from your 'main' branch to `<new branch name>`.
 - Finally, click the green `Create Pull Request` button. Great job! You did it!
 
@@ -128,17 +125,11 @@ or
 
 > **Warning**: If you get an error message like the one below, you probably forgot to fork the repository before cloning it. It is best to start over and fork the project repository first.
 
-```bash
-ERROR: Permission to https://github.com/GSSoC24/being-an-GSSoc24 denied to <your-github-username>.
-fatal: Could not read from remote repository.
-Please make sure you have the correct access rights and that the repository exists.
-```
-
 **8. Raise a Pull Request:**
 
 - On the GitHub website, navigate to your forked repo - on the top of the files section, you'll notice a new section containing a `Compare & Pull Request` button! ![createpr]
 
-- Click on that button, this will load a new page, comparing the local branch in your forked repository against the main branch in the GSSoC'24 Being an Gssoc repository. Do not make any changes in the selected values of the branches (do so only if needed), and click the green `Create Pull Request` button. 
+- Click on that button, this will load a new page, comparing the local branch in your forked repository against the main branch. Do not make any changes in the selected values of the branches (do so only if needed), and click the green `Create Pull Request` button. 
   Note: A pull request allows us to merge your changes with the original project repo.
 
 - Your pull request will be reviewed and then eventually merged.
