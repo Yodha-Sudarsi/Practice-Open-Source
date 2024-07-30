@@ -75,7 +75,7 @@ You can ask questions by raising an [issue](https://github.com/Yodha-Sudarsi/Pra
 
 **5. Edit the File:**
 
-- **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/open-source-practice#hacktoberfest-community), make sure that your name is in alphabetical order. Then save your changes.**
+- **Add your name to the section that matches your Initial in [this list](https://github.com/Yodha-Sudarsi/Practice-Open-Source?tab=readme-ov-file#contents), make sure that your name is in alphabetical order. Then save your changes.**
 
 - For example
   `- [Full Name](https://github.com/your-username)`
@@ -147,6 +147,10 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - **To read more about this, go to [GitHub Docs - About Merge Conflicts](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)**
 
 - **To find out about how to fix a Git Conflict, go to [GitHub Docs - Resolve Merge Conflict](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)**
+
+---
+
+## **RVR&JC Open Source Community**
 
 ### **Contents**
 
