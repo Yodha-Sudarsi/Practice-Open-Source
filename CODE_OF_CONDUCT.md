@@ -37,10 +37,6 @@ Project maintainers are here to help and ensure that our community remains a wel
 
 This Code of Conduct applies in all project spaces and public spaces where someone is representing the project. This includes using an official project email address, posting via an official social media account, or acting as an appointed representative at an event.
 
-## Reporting Issues
-
-If you experience or witness unacceptable behavior, please report it to the project team at [your-email@example.com](mailto:your-email@example.com). We promise to review and investigate all complaints promptly and fairly, and we’ll keep everything as confidential as possible.
-
 ## Enforcement Guidelines
 
 To keep things light and positive, we’ll handle issues with a focus on education and resolution. Here’s how we approach it:
