@@ -2,7 +2,7 @@
 
 ## Welcome, Future Contributors!
 
-We are thrilled that you're interested in contributing to the **Data Structures and Algorithms in Go** repository! Whether you're a student, a professional, or just someone with a passion for Go, we welcome you with open arms and a friendly smile.
+We are thrilled that you're interested in contributing to this repository! Whether you're a student, a professional, or just someone with a passion for Go, we welcome you with open arms and a friendly smile.
 
 ## Our Pledge
 
